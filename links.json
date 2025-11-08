@@ -1,11 +1,63 @@
 {
-  "The Grim Adventures of Billy & Mandy.png": "https://www.mediafire.com/file/0543z05ii1nam50",
-  "Cold Fear.png": "https://www.mediafire.com/file/08dz03kxnviqhrr",
-  "Pump It Up Exceed.png": "https://www.mediafire.com/file/rcgijjvczidheh7",
-  "Akira Psycho Ball.png": "https://www.mediafire.com/file/83sxk6yzsbe74lp",
-  "Gran Turismo 4 Spec II.png": "https://www.mediafire.com/file/fwp5ylikzb21pwk"
+  "publicidad_url_base": "https://github.com/kasio13/store/tree/6d895e4852e07bac833a17fdca361c2eb1bcd700/store/publicidad",
+  "path_instalacion_base": "C:\\store\\juegos\\",
+  "juegos": [
+    {
+      "id": 1,
+      "nombre": "The Grim Adventures of Billy & Mandy",
+      "consola": "PC",
+      "link_descarga": "https://www.mediafire.com/file/0543z05ii1nam50/The_Grim_Adventures_of_Billy_&_Mandy.zip",
+      "carpeta_local": "BillyMandy",
+      "ejecutable": "BillyMandy.exe",
+      "imagen_banner": "The_Grim_Adventures_of_Billy_&_Mandy.png",
+      "descripcion": "Una aventura de plataforma y lucha basada en la serie animada."
+    },
+    {
+      "id": 2,
+      "nombre": "Cold Fear",
+      "consola": "PC",
+      "link_descarga": "https://www.mediafire.com/file/08dz03kxnviqhrr/Cold_Fear.zip",
+      "carpeta_local": "ColdFear",
+      "ejecutable": "ColdFear.exe",
+      "imagen_banner": "Cold_Fear.png",
+      "descripcion": "Un survival horror ambientado en un barco en el Ártico."
+    },
+    {
+      "id": 3,
+      "nombre": "Pump It Up Exceed",
+      "consola": "PC",
+      "link_descarga": "https://www.mediafire.com/file/rcgijjvczidheh7/Pump_It_Up_Exceed.zip",
+      "carpeta_local": "PumpItUpExceed",
+      "ejecutable": "PIUExceed.exe",
+      "imagen_banner": "Pump_It_Up_Exceed.png",
+      "descripcion": "Famoso juego de baile con una gran selección de canciones."
+    },
+    {
+      "id": 4,
+      "nombre": "Akira Psycho Ball",
+      "consola": "PC",
+      "link_descarga": "https://www.mediafire.com/file/83sxk6yzsbe74lp/Akira_Psycho_Ball.zip",
+      "carpeta_local": "AkiraBall",
+      "ejecutable": "PsychoBall.exe",
+      "imagen_banner": "Akira_Psycho_Ball.png",
+      "descripcion": "Un juego de pinball futurista basado en el universo de Akira."
+    },
+    {
+      "id": 5,
+      "nombre": "Gran Turismo 4 Spec II",
+      "consola": "PC",
+      "link_descarga": "https://www.mediafire.com/file/fwp5ylikzb21pwk/GT4_Spec_II.zip",
+      "carpeta_local": "GT4SpecII",
+      "ejecutable": "GT4Launcher.exe",
+      "imagen_banner": "Gran_Turismo_4_Spec_II.png",
+      "descripcion": "Versión especial del clásico simulador de carreras de Polyphony Digital."
+    }
+  ],
+  "publicidad": [
+    "publi_1.png",
+    "publi_2.png"
+  ]
 }
-
 
 
 
